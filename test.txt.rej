@@ -1,0 +1,4 @@
+diff a/test.txt b/test.txt	(rejected hunks)
+@@ -1 +1,2 @@
+ txt文件默认编码不是utf-8
++目标只有一个
